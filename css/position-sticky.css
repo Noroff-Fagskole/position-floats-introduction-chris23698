@@ -1,0 +1,14 @@
+.container {
+  height: 500px;
+}
+
+.sticky-position {
+  position: sticky;
+  background-color: wheat;
+  top: 0px;
+  padding: 10px;
+}
+
+p {
+  margin-top: 20px;
+}

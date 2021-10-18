@@ -137,7 +137,7 @@ div {
 
 .clearfix::after {
   clear: both;
-  content: '';
+  content: "";
   display: table;
 }
 ```
